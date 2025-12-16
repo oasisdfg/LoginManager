@@ -1,2 +1,2 @@
 # LoginManager
-Locally Stored logins manger
+Locally Stored logins manager
