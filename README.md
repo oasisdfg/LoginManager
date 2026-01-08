@@ -1,4 +1,5 @@
 # LoginManager
-<img width="683" height="589" alt="image" src="https://github.com/user-attachments/assets/5e50d770-bdc7-46a4-ad70-4e7a21c326f2" />
+<img width="784" height="642" alt="image" src="https://github.com/user-attachments/assets/48988e64-f5f7-4f06-8987-87b5352efc4f" />
 
-Locally Stored logins manager
+
+## Locally Stored logins manager
